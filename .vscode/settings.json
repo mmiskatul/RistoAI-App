@@ -4,8 +4,7 @@
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
   },
-  "java.configuration.updateBuildConfiguration": "interactive",
-  "task.allowAutomaticTasks": true,
+  "java.configuration.updateBuildConfiguration": "interactive"
   "debug.openDebug": "neverOpen",
   "terminal.integrated.inheritEnv": false,
   "tasks": {
